@@ -1,2 +1,2 @@
 # Ameya
-#This is my first reository
+#This is my first repository
